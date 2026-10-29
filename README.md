@@ -2,12 +2,6 @@
 
 An intelligent traffic management system that uses computer vision and machine learning to optimize traffic flow at intersections based on real-time vehicle detection.
 
-## 📹 Demo Video
-
-Watch the system in action:
-
-![Smart Traffic Management Demo](SmartRoadTrafficManagementSystem.mp4)
-
 ## 🌟 Features
 
 - **Real-time Vehicle Detection**: Uses YOLOv8 for detecting vehicles (cars, buses, trucks, rickshaws)
@@ -50,7 +44,7 @@ Smart-Traffic-Control-System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ayushman12baghel/Smart-Traffic-Control-System.git
+git clone https://github.com/Omveshsingh/Smart-Traffic-Management
 cd Smart-Traffic-Control-System
 ```
 
