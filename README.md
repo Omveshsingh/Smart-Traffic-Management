@@ -8,8 +8,6 @@ Watch the system in action:
 
 ![Smart Traffic Management Demo](SmartRoadTrafficManagementSystem.mp4)
 
-_If video doesn't display, [click here to watch](https://github.com/ayushman12baghel/Smart-Traffic-Control-System/raw/main/SmartRoadTrafficManagementSystem.mp4)_
-
 ## 🌟 Features
 
 - **Real-time Vehicle Detection**: Uses YOLOv8 for detecting vehicles (cars, buses, trucks, rickshaws)
@@ -133,12 +131,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-**Ayushman Baghel**
-
-- GitHub: [@ayushman12baghel](https://github.com/ayushman12baghel)
 
 ## 🙏 Acknowledgments
 
